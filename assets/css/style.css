@@ -7,9 +7,33 @@ body {
     background-color: #17A3B8;
 }
 
-.color-fondo2 {
-    background-color: #17A3B8;
+
+
+.card img {
+    height: 100%;
+   
 }
+
+
+.card p{
+    font-size: 0.875rem;
+    font-weight: 300;
+}
+
+h5 {
+    font-weight: 700;
+    
+}
+
+#quienes p{
+    font-size: 0.938rem;
+    font-weight: 300;
+}
+
+h2{
+    font-weight: 700;
+}
+
 .icono {
     color: #Ffffff;
 }
